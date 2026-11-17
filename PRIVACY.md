@@ -12,4 +12,4 @@ Shhpoiler does not collect, sell or share any personal data. Everything it does 
 - **Third parties:** None.
 - **Chrome Web Store User Data Policy:** The use of information received by Shhpoiler adheres to the Chrome Web Store User Data Policy, including the Limited Use requirements. Page content is used only for the user-facing feature of hiding spoilers, and is never stored, transferred, used for ads or sold.
 
-Questions: contact the developer through the Chrome Web Store listing's support page, or the contact email shown on the listing.
+Questions: email shhpoiler@gmail.com.
